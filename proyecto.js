@@ -1,7 +1,7 @@
 //Variables utiles 
 //Precio base de la cotización, en quetzales, lo puede cambiar
 
-  
+while (Salir != "SI" ) {
 var precio_base = 2000
 
 //Valores de los recargos 
@@ -105,8 +105,8 @@ if(edad_numero>=18 && edad_numero<25){
 alert ("Para el asegurado "+nombre)
 alert ("El recargo total sera de: "+recargo_completo)
 alert ("El precio sera de: "+precio_final)
-
-
+var Salir = prompt("¿Quiere Salir?", "si/no")
+  }
 
  
  
