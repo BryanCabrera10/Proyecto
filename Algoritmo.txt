@@ -1,0 +1,10 @@
+Algoritmo:
+1. El usuario ingresa su nombre.
+2. El usuario ingresa su edad.
+3. El usuario ingresa si tiene esposo/a. (Si tiene se le pregunta su edad, si no sigue.)
+4. Si tiene esposo/a se calcula su recargo.
+5. El usuario ingresa si tiene hijos. (Si tiene hijos se le pregunta cuantos, si no sigue.)
+6. Si tiene hijos se calcula su recargo.
+7. Se muestra nombre del usuario.
+8. Se muestra el total de recargo.
+9. Se muestra el precio total.

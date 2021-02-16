@@ -1,0 +1,6 @@
+El problema que tenemos es que hay una cotizadora, en la cual se tarda mucho hacerla entonces nosotros
+creamos un programa para optimizar los calculos, en este programa le pedimos al usuario que agregre los datos
+necesarios para que la computadora realice todos los calculos y listo.
+Tenemos el precio base que es de 2,000 y a cada vez puede subir el precio dependiendo de la edad del usuario, 
+si tiene esposo/a dependiendo la edad, y si tiene hijos el precio se eleva tambien, entonces nuestro programa solo
+con los datos que le entregamos hace los calculos y le entrega la cotizacion al usuario-
